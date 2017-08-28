@@ -12,7 +12,7 @@ menu.append(back);
 logo.css({
 "position":"absolute",
 "top":"50px",
-"left":"500px"
+"left":"0px"
 });
 back.css({
 "width":"32px",
